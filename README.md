@@ -6,7 +6,7 @@ Este repositório tem como objetivo explorar os recursos do Microsoft Azure, com
 ## Estrutura do Repositório
 
 ├── 1_Criacao_Resource_Group <br/> 
-├── 2_...<br/> 
+├── 2_copy_files_project <br/> 
 ├── 3_...<br/> 
 ├── 4_...<br/> 
 ├── 5_...<br/> 
@@ -20,7 +20,20 @@ Esta seção documenta o processo de criação de um Resource Group, a alocaçã
 2. Provisionar um recurso (exemplo: Azure Data Factory).
 3. Configurar um dashboard no Azure para monitoramento.
 
-### 2. [A ser preenchido]
+### 2. Criação de pipeline para cópia de arquivo usando o Azure Data Factory
+Esta seção documenta a criação de um pipeline de cópia de arquivo usando recursos do Azure como Data Factory e Blob Storage.
+
+**Passos:**
+1. Criar um Storage Account e containers.
+2. Abrir o Data Factory Studio.
+3. Explorar o Integration Runtime para configuração de conexões com ambientes on-premisses.
+4. Configurar um Linked Service.
+5. Criar um pipeline configurando fonte, destino e formato.
+6. Fazer validações e verificar possíveis correções.
+7. Publicar as alterações.
+8. Executar o pipeline.
+9. Verificar detalhes de execução e resultado da operação.
+
 ### 3. [A ser preenchido]
 ### 4. [A ser preenchido]
 ### 5. [A ser preenchido]
