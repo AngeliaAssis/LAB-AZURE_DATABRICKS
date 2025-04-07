@@ -7,9 +7,8 @@ Este repositório tem como objetivo explorar os recursos do Microsoft Azure, com
 
 ├── 1_Criacao_Resource_Group <br/> 
 ├── 2_copy_files_project <br/> 
-├── 3_...<br/> 
-├── 4_...<br/> 
-├── 5_...<br/> 
+├── 3_azure-databricks_notebook_project <br/> 
+├── 4_...<br/>
 └── README.md
 
 ### 1. Criação de Resource Group, Resource e Dashboard
@@ -34,9 +33,19 @@ Esta seção documenta a criação de um pipeline de cópia de arquivo usando re
 8. Executar o pipeline.
 9. Verificar detalhes de execução e resultado da operação.
 
-### 3. [A ser preenchido]
+### 3. Explorando o notebook do Azure Databricks
+Esta seção traz prints de exploração de uso do notebook do Databricks. A exploração foi feita usando o Community Databricks, considerando a impossibilidade de criação de cluster via Azure Databricks por limitação de cotas.
+
+**Passos:**
+1. Provisionar um recurso do Azure Databricks.
+2. Abrir o Databricks Studio.
+3. Configurar um cluster.
+Nota: aqui não foi possível completar a criação do cluster por limitação de cotas da assinatura do Azure. Ainda assim, foi possível explorar as funcionalidades existentes no studio que se conectam com os serviços do Azure, especialmente aquelas relacionadas ao armazenanto de dados.
+4. Configurar cluster via Community Databricks.
+5. Explorar dataset e recurso de visualização.
+
 ### 4. [A ser preenchido]
-### 5. [A ser preenchido]
+
 
 ## Pré-requisitos
 - Conta no Microsoft Azure
