@@ -39,8 +39,8 @@ Esta seção traz prints de exploração de uso do notebook do Databricks. A exp
 **Passos:**
 1. Provisionar um recurso do Azure Databricks.
 2. Abrir o Databricks Studio.
-3. Configurar um cluster.
-Nota: aqui não foi possível completar a criação do cluster por limitação de cotas da assinatura do Azure. Ainda assim, foi possível explorar as funcionalidades existentes no studio que se conectam com os serviços do Azure, especialmente aquelas relacionadas ao armazenanto de dados.
+3. Configurar um cluster. <br/> 
+Nota: aqui não foi possível completar a criação do cluster por limitação de cotas da assinatura do Azure. Ainda assim, foi possível explorar as funcionalidades existentes no studio que se conectam com os serviços do Azure, especialmente aquelas relacionadas ao armazenamento de dados.
 4. Configurar cluster via Community Databricks.
 5. Explorar dataset e recurso de visualização.
 
